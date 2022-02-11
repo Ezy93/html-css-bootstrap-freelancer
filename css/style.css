@@ -1,0 +1,20 @@
+header.container-fluid{
+    background-color: aqua;
+}
+
+header.container-fluid div.row{
+    height: 80px;
+}
+
+header.container-fluid div.col-lg-8{
+    background-color: aliceblue;
+    height: 60px;
+}
+
+ul{
+    margin-top: 1rem;
+}
+
+ul.d-flex li{
+    margin-left: 1rem;
+}

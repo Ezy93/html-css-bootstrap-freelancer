@@ -1,3 +1,4 @@
+/* tutta roba da cancellare */
 header.container-fluid{
     background-color: aqua;
 }
@@ -11,14 +12,21 @@ header.container-fluid div.col-lg-8{
     height: 60px;
 }
 
+
+main section{
+    height: 500px;
+}
+
+section div.bg-danger{
+    border: 2px solid greenyellow;
+    height: 50px;
+}
+
+/*attributi da mantenere */
 ul{
     margin-top: 1rem;
 }
 
 ul.d-flex li{
     margin-left: 1rem;
-}
-
-main section{
-    height: 150px;
 }

@@ -18,3 +18,7 @@ ul{
 ul.d-flex li{
     margin-left: 1rem;
 }
+
+main section{
+    height: 150px;
+}

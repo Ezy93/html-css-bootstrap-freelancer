@@ -1,6 +1,6 @@
 /* tutta roba da cancellare */
 header.container-fluid{
-    background-color: aqua;
+    background-color: rgb(44, 62, 80);
 }
 
 header.container-fluid div.row{
@@ -8,7 +8,7 @@ header.container-fluid div.row{
 }
 
 header.container-fluid div.col-lg-8{
-    background-color: aliceblue;
+
     height: 60px;
 }
 
@@ -25,10 +25,9 @@ section div.bg-danger{
 }
 
 /*attributi da mantenere */
-ul{
-    margin-top: 1rem;
-}
 
-ul.d-flex li{
-    margin-left: 1rem;
+
+nav.navbar,
+nav.navbar > div.container-fluid{
+    padding: 0rem;
 }

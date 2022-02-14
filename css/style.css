@@ -1,36 +1,11 @@
-/* tutta roba da cancellare */
+
 header.container-fluid{
     background-color: rgb(44, 62, 80);
 }
 
-header.container-fluid div.row{
-    height: 80px;
-}
-
-header.container-fluid div.col-lg-8{
-
-    height: 60px;
-}
-
-
-
 img{
     width: 100%;
     border-radius: 10px;
-}
-
-
-section div.bg-danger{
-    border: 2px solid greenyellow;
-
-}
-
-/*attributi da mantenere */
-
-
-nav.navbar,
-nav.navbar > div.container-fluid{
-    padding: 0rem;
 }
 
 p.text-uppercase{
@@ -41,8 +16,14 @@ div.btn{
     width: 125px;
 }
 
+
+
 .my-bg-color{
     background-color: rgb(26, 188, 156);
+}
+
+.my-bg-footer-up{
+    background-color: rgb(58, 84, 109)
 }
 
 .my-hr,

@@ -40,13 +40,14 @@ p.text-uppercase{
 
 .my-hr{
     border: 1px solid white;
-    height: 2px;
+    height: 4px;
     width: 27%;
     background-color: white;
+    border-radius: 2px;
 }
 
 .my-full-width{
-    width: 90%;
+    width: 46%;
 }
 
 .my-fs-4r{
@@ -55,4 +56,16 @@ p.text-uppercase{
 
 #cv-avatar{
     width: 250px;
+}
+
+@media screen and (max-width: 576px){
+    
+    .my-fs-4r{
+        font-size: 3rem;
+    }
+
+    p.text-uppercase{
+        font-size: 1.2rem;
+    }
+
 }

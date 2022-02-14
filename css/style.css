@@ -31,3 +31,15 @@ nav.navbar,
 nav.navbar > div.container-fluid{
     padding: 0rem;
 }
+
+.my-bg-color{
+    background-color: rgb(26, 188, 156);
+}
+
+.my-hr{
+    border: 1px solid white;
+}
+
+#cv-avatar{
+    width: 250px;
+}

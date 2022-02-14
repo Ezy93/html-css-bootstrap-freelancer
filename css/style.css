@@ -15,7 +15,7 @@ p.text-uppercase{
     font-size: 1.6rem;
 }
 
-div.btn{
+div.col-2 .btn{
     width: 125px;
 }
 
@@ -24,7 +24,8 @@ div.my-bg-footer-bottom{
 }
 
 
-.my-bg-color{
+.my-bg-color,
+.my-bg-btn{
     background-color: rgb(26, 188, 156);
 }
 
@@ -35,6 +36,7 @@ div.my-bg-footer-bottom{
 .my-bg-footer-bottom{
     background-color: rgb(44, 62, 80);
 }
+
 
 .my-hr,
 .my-hr-black{

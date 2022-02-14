@@ -37,6 +37,10 @@ p.text-uppercase{
     font-size: 1.6rem;
 }
 
+div.btn{
+    width: 125px;
+}
+
 .my-bg-color{
     background-color: rgb(26, 188, 156);
 }
@@ -64,6 +68,10 @@ p.text-uppercase{
 
 .my-fs-4r{
     font-size: 4rem;
+}
+
+.my-fw{
+    font-weight: 600;
 }
 
 #cv-avatar{

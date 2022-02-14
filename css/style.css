@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 
 header.container-fluid{
     background-color: rgb(44, 62, 80);
@@ -16,6 +19,9 @@ div.btn{
     width: 125px;
 }
 
+div.my-bg-footer-bottom{
+    height: 100px;
+}
 
 
 .my-bg-color{
@@ -24,6 +30,10 @@ div.btn{
 
 .my-bg-footer-up{
     background-color: rgb(58, 84, 109)
+}
+
+.my-bg-footer-bottom{
+    background-color: rgb(44, 62, 80);
 }
 
 .my-hr,
@@ -54,6 +64,8 @@ div.btn{
 .my-fw{
     font-weight: 600;
 }
+
+
 
 #cv-avatar{
     width: 250px;

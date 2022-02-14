@@ -38,6 +38,13 @@ nav.navbar > div.container-fluid{
 
 .my-hr{
     border: 1px solid white;
+    height: 2px;
+    width: 15%;
+    background-color: white;
+}
+
+.my-full-width{
+    width: 90%;
 }
 
 #cv-avatar{

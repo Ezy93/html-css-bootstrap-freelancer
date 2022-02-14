@@ -13,9 +13,7 @@ header.container-fluid div.col-lg-8{
 }
 
 
-main section{
-    height: 500px;
-}
+
 
 
 
@@ -32,6 +30,10 @@ nav.navbar > div.container-fluid{
     padding: 0rem;
 }
 
+p.text-uppercase{
+    font-size: 1.6rem;
+}
+
 .my-bg-color{
     background-color: rgb(26, 188, 156);
 }
@@ -39,12 +41,16 @@ nav.navbar > div.container-fluid{
 .my-hr{
     border: 1px solid white;
     height: 2px;
-    width: 15%;
+    width: 27%;
     background-color: white;
 }
 
 .my-full-width{
     width: 90%;
+}
+
+.my-fs-4r{
+    font-size: 4rem;
 }
 
 #cv-avatar{
